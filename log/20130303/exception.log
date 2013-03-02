@@ -91,3 +91,8 @@
 		Request::apiRequest in /home/wwwroot/feng/lib/core/url.php as line 30
 		UrlCoreLib::parseUrl in /home/wwwroot/feng/main.php as line 146
 		Main::run in /home/wwwroot/kernel/index.php as line 14
+【BusinessException】Message:错误的key; Code:0; in /home/wwwroot/kernel/api/client/getscript.php as line 10; 
+		GetscriptClientApi::index in /home/wwwroot/kernel/request.php as line 17
+		Request::apiRequest in /home/wwwroot/feng/lib/core/url.php as line 30
+		UrlCoreLib::parseUrl in /home/wwwroot/feng/main.php as line 146
+		Main::run in /home/wwwroot/kernel/index.php as line 14
