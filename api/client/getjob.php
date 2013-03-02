@@ -9,6 +9,10 @@ class GetjobClientApi extends BaseApi
         {
             throw new BusinessException('错误的key');
         }
-        return array('id' => 10, 'url' => 'http:www.baidu.com');
+		$redis = new RedisCoreLib();
+		$data = $redis->lPop('jobsOne');
+		$redis->rPush('jobsOne', $data);
+		$arr = json_decode($data, true);
+		return $data;
     }
 }
