@@ -11,8 +11,18 @@ class GetjobClientApi extends BaseApi
         }
 		$redis = new RedisCoreLib();
 		$data = $redis->lPop('jobsOne');
+		
 		$redis->rPush('jobsOne', $data);
 		$arr = json_decode($data, true);
-		return $data;
+		if ($arr)
+		{
+			$arr['hastask'] = true;
+			$arr['scriptname'] = Config::CLIENT_SCRIPT_NAME;
+		}
+		else
+		{
+			$arr['hastask'] = false;
+		}
+		return $arr;
     }
 }
