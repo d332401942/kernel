@@ -23,7 +23,7 @@ catch (BusinessException $e)
 catch (Exception $e)
 {
     header("HTTP/1.0 404 Not Found");
-    if (Config::FIRE_DEBUG)
+    if (Config::DEBUG)
     {
         echo $e;
     }

@@ -1,0 +1,15 @@
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.4405】【EndTime::20:03:01.4406】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362399241】【StartTime::20:03:01.4406】【EndTime::20:03:01.4413】【UseTime::0.00069212913513184】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362485641 where id in (5395,5396,5397,5398,5399)】【StartTime::20:03:01.4416】【EndTime::20:03:01.442】【UseTime::0.00041890144348145】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.7083】【EndTime::20:03:01.7083】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362399301】【StartTime::20:03:01.7084】【EndTime::20:03:01.709】【UseTime::0.00065803527832031】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362485701 where id in (5400,5401,5402,5403,5404)】【StartTime::20:03:01.7092】【EndTime::20:03:01.71】【UseTime::0.00076198577880859】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.982】【EndTime::20:03:01.982】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362399361】【StartTime::20:03:01.982】【EndTime::20:03:01.9827】【UseTime::0.00066399574279785】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362485761 where id in (5405,5406,5407,5408,5409)】【StartTime::20:03:01.983】【EndTime::20:03:01.9834】【UseTime::0.00042486190795898】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.2517】【EndTime::20:03:01.2517】【UseTime::2.0027160644531E-5】
+【HandleMysqlDbLib::execute】【query::1362399421】【StartTime::20:03:01.2517】【EndTime::20:03:01.2524】【UseTime::0.00069308280944824】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362485821 where id in (5410,5411,5412,5413,5414)】【StartTime::20:03:01.2526】【EndTime::20:03:01.253】【UseTime::0.00037384033203125】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.5099】【EndTime::20:03:01.5099】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362399481】【StartTime::20:03:01.5099】【EndTime::20:03:01.5106】【UseTime::0.00069308280944824】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362485881 where id in (5415,5416,5417,5418,5419)】【StartTime::20:03:01.5109】【EndTime::20:03:01.5114】【UseTime::0.00056004524230957】

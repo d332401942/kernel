@@ -9,20 +9,32 @@ class GetjobClientApi extends BaseApi
         {
             throw new BusinessException('错误的key');
         }
-		$redis = new RedisCoreLib();
-		$data = $redis->lPop('jobsOne');
-		
-		$redis->rPush('jobsOne', $data);
-		$arr = json_decode($data, true);
+		$num = 1;
+		if (!empty($_GET['num']))
+		{
+			$num = $_GET['num'];
+		}
+		$business = M('ClientBusiness');
+		$arr = array();
+		for ($i = 0; $i < $num; $i++)
+		{
+			$data = $business->getJob();
+			if ($data)
+			{
+				$value = json_decode($data, true);
+				array_push($arr, $value);
+			}
+		}
+		$lastData = array();
 		if ($arr)
 		{
-			$arr['hastask'] = true;
-			$arr['scriptname'] = Config::CLIENT_SCRIPT_NAME;
+			$lastData['hastask'] = true;
+			$lastData['tasklist'] = $arr;
 		}
 		else
 		{
-			$arr['hastask'] = false;
+			$lastData['hastask'] = false;
 		}
-		return $arr;
+		return $lastData;
     }
 }

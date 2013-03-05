@@ -3,48 +3,66 @@
 class SavejobsClientApi extends BaseApi
 {
 
+	/**
+	 * 当队列达到多少时不再写入
+	 */
+	const LIST_MAX_LEN = 100000;
+
 	public function index()
 	{
-		$file = '/home/wwwroot/jobs.txt';
-		$handle = fopen($file,'r');
-		$i = 1;
-		$redis = new RedisCoreLib();
-		//$redis->flushAll();exit;
-		while($line = fgets($handle))
+		$key = 'savedbtocache';
+		if (empty($_GET['key']) or $_GET['key'] != $key) 
 		{
-			/**
-			header('Content-Type: text/html; charset=GBK');
-			$content = file_get_contents($url);
-			if (preg_match('/J_pagination_form.*?<\/form>/is', $content, $arr))
+			throw new BusinessException('错误的key');
+		}
+		$business = M('ClientBusiness');
+		$maxLen = $business->getListLen();
+		if ($maxLen >= self::LIST_MAX_LEN)
+		{
+			return false;
+		}
+		$models = $business->selectJobs();
+		if ($models)
+		{
+			foreach ($models as $model)
 			{
-				$page = array_pop($arr);
-				$page = strip_tags($page);
-				print_r($page);
-				$i++;
+				$pageCount = $model->pagecount;
+				for ($page = 1; $page <= $pageCount; $page++)
+				{
+					$s = ($page - 1) * 36;
+					$url = $model->url . '&s=' . $s;
+					$data = array();
+					$data['tastid'] = $model->id;
+					$data['goodtypename'] = $model->goodtypename;
+					$data['url'] = $url;
+					$data['page'] = $page;
+					$data['scriptname'] = $model->scriptname;
+					$business->addJob($data);
+				}
 			}
-			if ($i > 2)
+		}
+		return true;
+	}
+
+	public function index1()
+	{
+		$file = './jobs';
+		$handle = fopen($file, 'r');
+		$array = array();
+		while ($line = fgets($handle))
+		{
+			$model = new ClientJobsDataModel();
+			$info = explode(',', $line);
+			if (count($info) != 4) 
 			{
-				return;
+				break;
 			}
-			*/
-			$num = 50;
-			$i = 1;
-			$pageSize = 36;
-			for ($i; $i<= $num; $i++) 
-			{
-				$info = explode(',', $line);
-				$data = array();
-				$data['tastid'] = $info[0];
-				$data['goodtypename'] = $info[1];
-				$url = trim($info[2]);
-					
-				$s = ($i - 1) * $pageSize;
-				$url = $url .'&s=' . $s;
-				$data['url'] = $url;
-				$data['page'] = $i;
-				$data['scriptid'] = '';
-				$redis->rPush('jobsOne', json_encode($data));
-			}
+			$model->goodtypename = trim($info[1]);
+			$model->url = trim($info[2]);
+			$model->pagecount = (int)$info[3];
+			$array[] = $model;
+			$data = new ClientJobsData();
+			$data->add($model);
 		}
 	}
 }
