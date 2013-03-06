@@ -13,3 +13,427 @@
 【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.5099】【EndTime::20:03:01.5099】【UseTime::1.1920928955078E-5】
 【HandleMysqlDbLib::execute】【query::1362399481】【StartTime::20:03:01.5099】【EndTime::20:03:01.5106】【UseTime::0.00069308280944824】
 【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362485881 where id in (5415,5416,5417,5418,5419)】【StartTime::20:03:01.5109】【EndTime::20:03:01.5114】【UseTime::0.00056004524230957】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.7591】【EndTime::20:03:01.7591】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362399541】【StartTime::20:03:01.7592】【EndTime::20:03:01.7602】【UseTime::0.0010581016540527】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362485941 where id in (5420,5421,5422,5423,5424)】【StartTime::20:03:01.7604】【EndTime::20:03:01.7609】【UseTime::0.00047397613525391】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:02.0168】【EndTime::20:03:02.0168】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362399602】【StartTime::20:03:02.0169】【EndTime::20:03:02.0175】【UseTime::0.0006859302520752】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486002 where id in (5425,5426,5427,5428,5429)】【StartTime::20:03:02.0178】【EndTime::20:03:02.0182】【UseTime::0.00044798851013184】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.2864】【EndTime::20:03:01.2864】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362399661】【StartTime::20:03:01.2865】【EndTime::20:03:01.2876】【UseTime::0.0011539459228516】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486061 where id in (5430,5431,5432,5433,5434)】【StartTime::20:03:01.288】【EndTime::20:03:01.2889】【UseTime::0.00091099739074707】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.6253】【EndTime::20:03:01.6253】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362399721】【StartTime::20:03:01.6253】【EndTime::20:03:01.6262】【UseTime::0.00088906288146973】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486121 where id in (5435,5436,5437,5438,5439)】【StartTime::20:03:01.6264】【EndTime::20:03:01.6268】【UseTime::0.00043320655822754】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.9047】【EndTime::20:03:01.9047】【UseTime::2.3126602172852E-5】
+【HandleMysqlDbLib::execute】【query::1362399781】【StartTime::20:03:01.9047】【EndTime::20:03:01.9054】【UseTime::0.0007169246673584】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486181 where id in (5440,5441,5442,5443,5444)】【StartTime::20:03:01.9058】【EndTime::20:03:01.9063】【UseTime::0.00047397613525391】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.1742】【EndTime::20:03:01.1742】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362399841】【StartTime::20:03:01.1742】【EndTime::20:03:01.175】【UseTime::0.00075817108154297】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486241 where id in (5445,5446,5447,5448,5449)】【StartTime::20:03:01.1752】【EndTime::20:03:01.1756】【UseTime::0.00042390823364258】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.4456】【EndTime::20:03:01.4456】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362399901】【StartTime::20:03:01.4456】【EndTime::20:03:01.4463】【UseTime::0.00073409080505371】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486301 where id in (5450,5451,5452,5453,5454)】【StartTime::20:03:01.4465】【EndTime::20:03:01.447】【UseTime::0.00048112869262695】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.716】【EndTime::20:03:01.716】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362399961】【StartTime::20:03:01.716】【EndTime::20:03:01.7166】【UseTime::0.00061297416687012】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486361 where id in (5455,5456,5457,5458,5459)】【StartTime::20:03:01.7169】【EndTime::20:03:01.7172】【UseTime::0.00036287307739258】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:02.0082】【EndTime::20:03:02.0083】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362400022】【StartTime::20:03:02.0083】【EndTime::20:03:02.009】【UseTime::0.00073599815368652】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486422 where id in (5460,5461,5462,5463,5464)】【StartTime::20:03:02.0092】【EndTime::20:03:02.01】【UseTime::0.00079107284545898】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.2915】【EndTime::20:03:01.2915】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362400081】【StartTime::20:03:01.2915】【EndTime::20:03:01.2922】【UseTime::0.00071215629577637】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486481 where id in (5465,5466,5467,5468,5469)】【StartTime::20:03:01.2925】【EndTime::20:03:01.293】【UseTime::0.0005030632019043】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.5596】【EndTime::20:03:01.5596】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362400141】【StartTime::20:03:01.5596】【EndTime::20:03:01.5603】【UseTime::0.00068187713623047】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486541 where id in (5470,5471,5472,5473,5474)】【StartTime::20:03:01.5605】【EndTime::20:03:01.561】【UseTime::0.00048494338989258】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.6519】【EndTime::20:03:01.6519】【UseTime::1.7881393432617E-5】
+【HandleMysqlDbLib::execute】【query::1362400201】【StartTime::20:03:01.6519】【EndTime::20:03:01.6531】【UseTime::0.0011398792266846】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486601 where id in (5475,5476,5477,5478,5479)】【StartTime::20:03:01.6538】【EndTime::20:03:01.6546】【UseTime::0.0007789134979248】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.9255】【EndTime::20:03:01.9255】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362400261】【StartTime::20:03:01.9255】【EndTime::20:03:01.9263】【UseTime::0.00071811676025391】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486661 where id in (5480,5481,5482,5483,5484)】【StartTime::20:03:01.9265】【EndTime::20:03:01.927】【UseTime::0.00046706199645996】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.0743】【EndTime::20:03:01.0743】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362400321】【StartTime::20:03:01.0743】【EndTime::20:03:01.0751】【UseTime::0.00077700614929199】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486721 where id in (5485,5486,5487,5488,5489)】【StartTime::20:03:01.0753】【EndTime::20:03:01.0758】【UseTime::0.00044512748718262】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.3531】【EndTime::20:03:01.3531】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362400381】【StartTime::20:03:01.3531】【EndTime::20:03:01.3539】【UseTime::0.000762939453125】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486781 where id in (5490,5491,5492,5493,5494)】【StartTime::20:03:01.3541】【EndTime::20:03:01.3546】【UseTime::0.00042200088500977】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.5642】【EndTime::20:03:01.5642】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362400441】【StartTime::20:03:01.5643】【EndTime::20:03:01.565】【UseTime::0.00069618225097656】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486841 where id in (5495,5496,5497,5498,5499)】【StartTime::20:03:01.5652】【EndTime::20:03:01.5656】【UseTime::0.00045514106750488】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.8219】【EndTime::20:03:01.822】【UseTime::1.1205673217773E-5】
+【HandleMysqlDbLib::execute】【query::1362400501】【StartTime::20:03:01.822】【EndTime::20:03:01.8226】【UseTime::0.00066494941711426】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486901 where id in (5500,5501,5502,5503,5504)】【StartTime::20:03:01.8228】【EndTime::20:03:01.8233】【UseTime::0.00045108795166016】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.0755】【EndTime::20:03:01.0755】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362400561】【StartTime::20:03:01.0755】【EndTime::20:03:01.0761】【UseTime::0.00057601928710938】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362486961 where id in (5505,5506,5507,5508,5509)】【StartTime::20:03:01.0763】【EndTime::20:03:01.0768】【UseTime::0.00047111511230469】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.4002】【EndTime::20:03:01.4002】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362400621】【StartTime::20:03:01.4002】【EndTime::20:03:01.401】【UseTime::0.00076699256896973】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487021 where id in (5510,5511,5512,5513,5514)】【StartTime::20:03:01.4012】【EndTime::20:03:01.4016】【UseTime::0.00041794776916504】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.653】【EndTime::20:03:01.6531】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362400681】【StartTime::20:03:01.6531】【EndTime::20:03:01.6537】【UseTime::0.00063705444335938】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487081 where id in (5515,5516,5517,5518,5519)】【StartTime::20:03:01.6545】【EndTime::20:03:01.6552】【UseTime::0.00070595741271973】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.9422】【EndTime::20:03:01.9422】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362400741】【StartTime::20:03:01.9422】【EndTime::20:03:01.943】【UseTime::0.00071215629577637】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487141 where id in (5520,5521,5522,5523,5524)】【StartTime::20:03:01.9432】【EndTime::20:03:01.9436】【UseTime::0.00042200088500977】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.3002】【EndTime::20:03:01.3002】【UseTime::1.8119812011719E-5】
+【HandleMysqlDbLib::execute】【query::1362400801】【StartTime::20:03:01.3002】【EndTime::20:03:01.3011】【UseTime::0.00083208084106445】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487201 where id in (5525,5526,5527,5528,5529)】【StartTime::20:03:01.3017】【EndTime::20:03:01.3039】【UseTime::0.0022749900817871】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.8058】【EndTime::20:03:01.8059】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362400861】【StartTime::20:03:01.8059】【EndTime::20:03:01.8068】【UseTime::0.00088310241699219】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487261 where id in (5530,5531,5532,5533,5534)】【StartTime::20:03:01.807】【EndTime::20:03:01.8074】【UseTime::0.00042200088500977】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.112】【EndTime::20:03:01.112】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362400921】【StartTime::20:03:01.1121】【EndTime::20:03:01.1127】【UseTime::0.00063419342041016】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487321 where id in (5535,5536,5537,5538,5539)】【StartTime::20:03:01.113】【EndTime::20:03:01.1136】【UseTime::0.0006561279296875】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.4034】【EndTime::20:03:01.4034】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362400981】【StartTime::20:03:01.4034】【EndTime::20:03:01.4043】【UseTime::0.00090599060058594】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487381 where id in (5540,5541,5542,5543,5544)】【StartTime::20:03:01.4046】【EndTime::20:03:01.4053】【UseTime::0.00072193145751953】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.6486】【EndTime::20:03:01.6486】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362401041】【StartTime::20:03:01.6487】【EndTime::20:03:01.6493】【UseTime::0.00065493583679199】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487441 where id in (5545,5546,5547,5548,5549)】【StartTime::20:03:01.6495】【EndTime::20:03:01.6499】【UseTime::0.00040197372436523】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:02.0066】【EndTime::20:03:02.0067】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362401102】【StartTime::20:03:02.0067】【EndTime::20:03:02.0075】【UseTime::0.00078296661376953】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487502 where id in (5550,5551,5552,5553,5554)】【StartTime::20:03:02.0077】【EndTime::20:03:02.0081】【UseTime::0.0004270076751709】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.2846】【EndTime::20:03:01.2846】【UseTime::1.978874206543E-5】
+【HandleMysqlDbLib::execute】【query::1362401161】【StartTime::20:03:01.2848】【EndTime::20:03:01.2862】【UseTime::0.0014638900756836】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487561 where id in (5555,5556,5557,5558,5559)】【StartTime::20:03:01.2881】【EndTime::20:03:01.289】【UseTime::0.00094985961914062】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.8409】【EndTime::20:03:01.841】【UseTime::1.7881393432617E-5】
+【HandleMysqlDbLib::execute】【query::1362401221】【StartTime::20:03:01.841】【EndTime::20:03:01.842】【UseTime::0.00098299980163574】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487621 where id in (5560,5561,5562,5563,5564)】【StartTime::20:03:01.8423】【EndTime::20:03:01.8428】【UseTime::0.00052309036254883】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.1943】【EndTime::20:03:01.1943】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362401281】【StartTime::20:03:01.1943】【EndTime::20:03:01.1951】【UseTime::0.00082015991210938】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487681 where id in (5565,5566,5567,5568,5569)】【StartTime::20:03:01.1954】【EndTime::20:03:01.1958】【UseTime::0.00043702125549316】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.5955】【EndTime::20:03:01.5955】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362401341】【StartTime::20:03:01.5955】【EndTime::20:03:01.5965】【UseTime::0.00097894668579102】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487741 where id in (5570,5571,5572,5573,5574)】【StartTime::20:03:01.5968】【EndTime::20:03:01.5977】【UseTime::0.00090289115905762】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.9299】【EndTime::20:03:01.93】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362401401】【StartTime::20:03:01.93】【EndTime::20:03:01.9308】【UseTime::0.00087213516235352】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487801 where id in (5575,5576,5577,5578,5579)】【StartTime::20:03:01.9311】【EndTime::20:03:01.9316】【UseTime::0.00051188468933105】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.2991】【EndTime::20:03:01.2992】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362401461】【StartTime::20:03:01.2992】【EndTime::20:03:01.3002】【UseTime::0.0010418891906738】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487861 where id in (5580,5581,5582,5583,5584)】【StartTime::20:03:01.3004】【EndTime::20:03:01.3011】【UseTime::0.00066590309143066】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.6165】【EndTime::20:03:01.6165】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362401521】【StartTime::20:03:01.6165】【EndTime::20:03:01.6174】【UseTime::0.00094008445739746】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487921 where id in (5585,5586,5587,5588,5589)】【StartTime::20:03:01.6178】【EndTime::20:03:01.6183】【UseTime::0.0005950927734375】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.0574】【EndTime::20:03:01.0574】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362401581】【StartTime::20:03:01.0574】【EndTime::20:03:01.0587】【UseTime::0.0012240409851074】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362487981 where id in (5590,5591,5592,5593,5594)】【StartTime::20:03:01.059】【EndTime::20:03:01.0602】【UseTime::0.0012490749359131】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.4291】【EndTime::20:03:01.4291】【UseTime::2.0027160644531E-5】
+【HandleMysqlDbLib::execute】【query::1362401641】【StartTime::20:03:01.4291】【EndTime::20:03:01.4304】【UseTime::0.0012989044189453】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488041 where id in (5595,5596,5597,5598,5599)】【StartTime::20:03:01.4307】【EndTime::20:03:01.4312】【UseTime::0.00048303604125977】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.7737】【EndTime::20:03:01.7737】【UseTime::2.0027160644531E-5】
+【HandleMysqlDbLib::execute】【query::1362401701】【StartTime::20:03:01.7737】【EndTime::20:03:01.7748】【UseTime::0.0010800361633301】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488101 where id in (5600,5601,5602,5603,5604)】【StartTime::20:03:01.7751】【EndTime::20:03:01.7756】【UseTime::0.00054192543029785】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.2165】【EndTime::20:03:01.2165】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362401761】【StartTime::20:03:01.2165】【EndTime::20:03:01.2174】【UseTime::0.00084590911865234】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488161 where id in (5605,5606,5607,5608,5609)】【StartTime::20:03:01.2176】【EndTime::20:03:01.2181】【UseTime::0.0005040168762207】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.5988】【EndTime::20:03:01.5988】【UseTime::2.4080276489258E-5】
+【HandleMysqlDbLib::execute】【query::1362401821】【StartTime::20:03:01.5988】【EndTime::20:03:01.6】【UseTime::0.0011529922485352】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488221 where id in (5610,5611,5612,5613,5614)】【StartTime::20:03:01.6003】【EndTime::20:03:01.6007】【UseTime::0.00046300888061523】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.98】【EndTime::20:03:01.98】【UseTime::1.9073486328125E-5】
+【HandleMysqlDbLib::execute】【query::1362401881】【StartTime::20:03:01.9801】【EndTime::20:03:01.9813】【UseTime::0.0012469291687012】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488281 where id in (5615,5616,5617,5618,5619)】【StartTime::20:03:01.9816】【EndTime::20:03:01.9821】【UseTime::0.00048303604125977】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::20:03:01.3701】【EndTime::20:03:01.3701】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362401941】【StartTime::20:03:01.3701】【EndTime::20:03:01.3711】【UseTime::0.00092697143554688】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488341 where id in (5620,5621,5622,5623,5624)】【StartTime::20:03:01.3713】【EndTime::20:03:01.3725】【UseTime::0.0011699199676514】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7651】【EndTime::21:03:01.7651】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362402001】【StartTime::21:03:01.7651】【EndTime::21:03:01.7663】【UseTime::0.001140832901001】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488401 where id in (5625,5626,5627,5628,5629)】【StartTime::21:03:01.7665】【EndTime::21:03:01.7672】【UseTime::0.00070095062255859】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.1697】【EndTime::21:03:01.1697】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362402061】【StartTime::21:03:01.1697】【EndTime::21:03:01.1705】【UseTime::0.0008399486541748】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488461 where id in (5630,5631,5632,5633,5634)】【StartTime::21:03:01.1708】【EndTime::21:03:01.1713】【UseTime::0.00046205520629883】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5497】【EndTime::21:03:01.5497】【UseTime::1.9073486328125E-5】
+【HandleMysqlDbLib::execute】【query::1362402121】【StartTime::21:03:01.5498】【EndTime::21:03:01.551】【UseTime::0.0012078285217285】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488521 where id in (5635,5636,5637,5638,5639)】【StartTime::21:03:01.5517】【EndTime::21:03:01.5525】【UseTime::0.00077295303344727】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.9352】【EndTime::21:03:01.9352】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362402181】【StartTime::21:03:01.9352】【EndTime::21:03:01.9363】【UseTime::0.0010581016540527】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488581 where id in (5640,5641,5642,5643,5644)】【StartTime::21:03:01.9367】【EndTime::21:03:01.9377】【UseTime::0.00092697143554688】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.3289】【EndTime::21:03:01.3289】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362402241】【StartTime::21:03:01.3289】【EndTime::21:03:01.3298】【UseTime::0.00091886520385742】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488641 where id in (5645,5646,5647,5648,5649)】【StartTime::21:03:01.3301】【EndTime::21:03:01.3305】【UseTime::0.00044083595275879】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5863】【EndTime::21:03:01.5863】【UseTime::1.9073486328125E-5】
+【HandleMysqlDbLib::execute】【query::1362402301】【StartTime::21:03:01.5863】【EndTime::21:03:01.5878】【UseTime::0.0015010833740234】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488701 where id in (5650,5651,5652,5653,5654)】【StartTime::21:03:01.5882】【EndTime::21:03:01.5889】【UseTime::0.00067305564880371】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.9289】【EndTime::21:03:01.9289】【UseTime::1.8119812011719E-5】
+【HandleMysqlDbLib::execute】【query::1362402361】【StartTime::21:03:01.9289】【EndTime::21:03:01.9301】【UseTime::0.0011699199676514】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488761 where id in (5655,5656,5657,5658,5659)】【StartTime::21:03:01.9305】【EndTime::21:03:01.9314】【UseTime::0.00092315673828125】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.3326】【EndTime::21:03:01.3326】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362402421】【StartTime::21:03:01.3326】【EndTime::21:03:01.3335】【UseTime::0.00087285041809082】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488821 where id in (5660,5661,5662,5663,5664)】【StartTime::21:03:01.3337】【EndTime::21:03:01.3345】【UseTime::0.00075888633728027】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5996】【EndTime::21:03:01.5996】【UseTime::1.8119812011719E-5】
+【HandleMysqlDbLib::execute】【query::1362402481】【StartTime::21:03:01.5997】【EndTime::21:03:01.6008】【UseTime::0.0011398792266846】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488881 where id in (5665,5666,5667,5668,5669)】【StartTime::21:03:01.6011】【EndTime::21:03:01.6017】【UseTime::0.0005648136138916】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.9723】【EndTime::21:03:01.9723】【UseTime::2.0980834960938E-5】
+【HandleMysqlDbLib::execute】【query::1362402541】【StartTime::21:03:01.9724】【EndTime::21:03:01.9739】【UseTime::0.0015008449554443】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362488941 where id in (5670,5671,5672,5673,5674)】【StartTime::21:03:01.9743】【EndTime::21:03:01.9753】【UseTime::0.00099706649780273】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.4006】【EndTime::21:03:01.4006】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362402601】【StartTime::21:03:01.4007】【EndTime::21:03:01.4016】【UseTime::0.00090289115905762】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489001 where id in (5675,5676,5677,5678,5679)】【StartTime::21:03:01.402】【EndTime::21:03:01.4027】【UseTime::0.00073409080505371】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7938】【EndTime::21:03:01.7938】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362402661】【StartTime::21:03:01.7938】【EndTime::21:03:01.7949】【UseTime::0.0010530948638916】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489061 where id in (5680,5681,5682,5683,5684)】【StartTime::21:03:01.7953】【EndTime::21:03:01.7957】【UseTime::0.0004570484161377】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.1741】【EndTime::21:03:01.1741】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362402721】【StartTime::21:03:01.1741】【EndTime::21:03:01.1748】【UseTime::0.00075602531433105】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489121 where id in (5685,5686,5687,5688,5689)】【StartTime::21:03:01.175】【EndTime::21:03:01.1754】【UseTime::0.00042295455932617】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5602】【EndTime::21:03:01.5602】【UseTime::2.0027160644531E-5】
+【HandleMysqlDbLib::execute】【query::1362402781】【StartTime::21:03:01.5602】【EndTime::21:03:01.5614】【UseTime::0.001230001449585】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489181 where id in (5690,5691,5692,5693,5694)】【StartTime::21:03:01.5618】【EndTime::21:03:01.5623】【UseTime::0.00051999092102051】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.9665】【EndTime::21:03:01.9665】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362402841】【StartTime::21:03:01.9666】【EndTime::21:03:01.9674】【UseTime::0.00085806846618652】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489241 where id in (5695,5696,5697,5698,5699)】【StartTime::21:03:01.9676】【EndTime::21:03:01.9682】【UseTime::0.00052809715270996】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.206】【EndTime::21:03:01.206】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362402901】【StartTime::21:03:01.206】【EndTime::21:03:01.2068】【UseTime::0.0007169246673584】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489301 where id in (5700,5701,5702,5703,5704)】【StartTime::21:03:01.2071】【EndTime::21:03:01.2075】【UseTime::0.00043392181396484】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.446】【EndTime::21:03:01.446】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362402961】【StartTime::21:03:01.446】【EndTime::21:03:01.4468】【UseTime::0.00076699256896973】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489361 where id in (5705,5706,5707,5708,5709)】【StartTime::21:03:01.447】【EndTime::21:03:01.4475】【UseTime::0.00048613548278809】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7806】【EndTime::21:03:01.7806】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362403021】【StartTime::21:03:01.7807】【EndTime::21:03:01.7814】【UseTime::0.00077295303344727】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489421 where id in (5710,5711,5712,5713,5714)】【StartTime::21:03:01.7816】【EndTime::21:03:01.782】【UseTime::0.00035595893859863】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.1348】【EndTime::21:03:01.1348】【UseTime::2.2172927856445E-5】
+【HandleMysqlDbLib::execute】【query::1362403081】【StartTime::21:03:01.1348】【EndTime::21:03:01.1357】【UseTime::0.00086379051208496】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489481 where id in (5715,5716,5717,5718,5719)】【StartTime::21:03:01.1359】【EndTime::21:03:01.1363】【UseTime::0.00037813186645508】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.4291】【EndTime::21:03:01.4291】【UseTime::1.4781951904297E-5】
+【HandleMysqlDbLib::execute】【query::1362403141】【StartTime::21:03:01.4291】【EndTime::21:03:01.4299】【UseTime::0.00084900856018066】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489541 where id in (5720,5721,5722,5723,5724)】【StartTime::21:03:01.4302】【EndTime::21:03:01.4306】【UseTime::0.00043106079101562】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7737】【EndTime::21:03:01.7737】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362403201】【StartTime::21:03:01.7737】【EndTime::21:03:01.7745】【UseTime::0.00078797340393066】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489601 where id in (5725,5726,5727,5728,5729)】【StartTime::21:03:01.7747】【EndTime::21:03:01.7752】【UseTime::0.00049519538879395】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.117】【EndTime::21:03:01.117】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362403261】【StartTime::21:03:01.117】【EndTime::21:03:01.1241】【UseTime::0.007084846496582】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489661 where id in (5730,5731,5732,5733,5734)】【StartTime::21:03:01.1244】【EndTime::21:03:01.1249】【UseTime::0.00045919418334961】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.4351】【EndTime::21:03:01.4352】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362403321】【StartTime::21:03:01.4352】【EndTime::21:03:01.436】【UseTime::0.00078701972961426】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489721 where id in (5735,5736,5737,5738,5739)】【StartTime::21:03:01.4362】【EndTime::21:03:01.4366】【UseTime::0.00047492980957031】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7572】【EndTime::21:03:01.7572】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362403381】【StartTime::21:03:01.7573】【EndTime::21:03:01.7581】【UseTime::0.00082588195800781】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489781 where id in (5740,5741,5742,5743,5744)】【StartTime::21:03:01.7583】【EndTime::21:03:01.7586】【UseTime::0.00035405158996582】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.0516】【EndTime::21:03:01.0517】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362403441】【StartTime::21:03:01.0517】【EndTime::21:03:01.0526】【UseTime::0.00089502334594727】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489841 where id in (5745,5746,5747,5748,5749)】【StartTime::21:03:01.0528】【EndTime::21:03:01.0535】【UseTime::0.00071001052856445】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.3987】【EndTime::21:03:01.3987】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362403501】【StartTime::21:03:01.3987】【EndTime::21:03:01.3995】【UseTime::0.0007789134979248】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489901 where id in (5750,5751,5752,5753,5754)】【StartTime::21:03:01.3998】【EndTime::21:03:01.4003】【UseTime::0.00046396255493164】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7249】【EndTime::21:03:01.7249】【UseTime::1.8119812011719E-5】
+【HandleMysqlDbLib::execute】【query::1362403561】【StartTime::21:03:01.725】【EndTime::21:03:01.7265】【UseTime::0.0015010833740234】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362489961 where id in (5755,5756,5757,5758,5759)】【StartTime::21:03:01.7269】【EndTime::21:03:01.728】【UseTime::0.0011458396911621】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.1204】【EndTime::21:03:01.1204】【UseTime::4.6014785766602E-5】
+【HandleMysqlDbLib::execute】【query::1362403621】【StartTime::21:03:01.1205】【EndTime::21:03:01.1214】【UseTime::0.00089716911315918】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490021 where id in (5760,5761,5762,5763,5764)】【StartTime::21:03:01.1216】【EndTime::21:03:01.1221】【UseTime::0.00048112869262695】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.456】【EndTime::21:03:01.456】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362403681】【StartTime::21:03:01.456】【EndTime::21:03:01.457】【UseTime::0.00099515914916992】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490081 where id in (5765,5766,5767,5768,5769)】【StartTime::21:03:01.4573】【EndTime::21:03:01.4576】【UseTime::0.00035190582275391】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7962】【EndTime::21:03:01.7962】【UseTime::3.1948089599609E-5】
+【HandleMysqlDbLib::execute】【query::1362403741】【StartTime::21:03:01.7962】【EndTime::21:03:01.797】【UseTime::0.000823974609375】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490141 where id in (5770,5771,5772,5773,5774)】【StartTime::21:03:01.7973】【EndTime::21:03:01.7977】【UseTime::0.00049304962158203】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.1212】【EndTime::21:03:01.1212】【UseTime::1.7881393432617E-5】
+【HandleMysqlDbLib::execute】【query::1362403801】【StartTime::21:03:01.1212】【EndTime::21:03:01.122】【UseTime::0.00078105926513672】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490201 where id in (5775,5776,5777,5778,5779)】【StartTime::21:03:01.1223】【EndTime::21:03:01.1228】【UseTime::0.00042510032653809】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.3381】【EndTime::21:03:01.3381】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362403861】【StartTime::21:03:01.3381】【EndTime::21:03:01.3389】【UseTime::0.00081706047058105】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490261 where id in (5780,5781,5782,5783,5784)】【StartTime::21:03:01.3392】【EndTime::21:03:01.3397】【UseTime::0.00048494338989258】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.6222】【EndTime::21:03:01.6222】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362403921】【StartTime::21:03:01.6222】【EndTime::21:03:01.6234】【UseTime::0.0011429786682129】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490321 where id in (5785,5786,5787,5788,5789)】【StartTime::21:03:01.6236】【EndTime::21:03:01.6242】【UseTime::0.00058197975158691】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.8886】【EndTime::21:03:01.8886】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362403981】【StartTime::21:03:01.8886】【EndTime::21:03:01.8895】【UseTime::0.00082707405090332】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490381 where id in (5790,5791,5792,5793,5794)】【StartTime::21:03:01.8897】【EndTime::21:03:01.8902】【UseTime::0.00047779083251953】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.2366】【EndTime::21:03:01.2366】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362404041】【StartTime::21:03:01.2366】【EndTime::21:03:01.2378】【UseTime::0.0012078285217285】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490441 where id in (5795,5796,5797,5798,5799)】【StartTime::21:03:01.2383】【EndTime::21:03:01.2393】【UseTime::0.0010168552398682】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5752】【EndTime::21:03:01.5752】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362404101】【StartTime::21:03:01.5753】【EndTime::21:03:01.5761】【UseTime::0.00075912475585938】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490501 where id in (5800,5801,5802,5803,5804)】【StartTime::21:03:01.5763】【EndTime::21:03:01.5769】【UseTime::0.00053906440734863】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.8929】【EndTime::21:03:01.8929】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362404161】【StartTime::21:03:01.8929】【EndTime::21:03:01.8938】【UseTime::0.00086188316345215】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490561 where id in (5805,5806,5807,5808,5809)】【StartTime::21:03:01.894】【EndTime::21:03:01.8944】【UseTime::0.00042581558227539】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.2188】【EndTime::21:03:01.2188】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362404221】【StartTime::21:03:01.2188】【EndTime::21:03:01.2198】【UseTime::0.00093793869018555】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490621 where id in (5810,5811,5812,5813,5814)】【StartTime::21:03:01.22】【EndTime::21:03:01.2204】【UseTime::0.00044012069702148】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5602】【EndTime::21:03:01.5603】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362404281】【StartTime::21:03:01.5603】【EndTime::21:03:01.5612】【UseTime::0.00089883804321289】
+【HandleMysqlDbLib::exec】【query::update client_jobs set cachetime = 1362490681 where id in (5815,5816)】【StartTime::21:03:01.5613】【EndTime::21:03:01.5618】【UseTime::0.00049996376037598】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7046】【EndTime::21:03:01.7046】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362404341】【StartTime::21:03:01.7046】【EndTime::21:03:01.7058】【UseTime::0.0011210441589355】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7412】【EndTime::21:03:01.7412】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362404401】【StartTime::21:03:01.7413】【EndTime::21:03:01.7422】【UseTime::0.00089812278747559】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.7823】【EndTime::21:03:01.7823】【UseTime::2.0027160644531E-5】
+【HandleMysqlDbLib::execute】【query::1362404461】【StartTime::21:03:01.7823】【EndTime::21:03:01.7835】【UseTime::0.001176118850708】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.8251】【EndTime::21:03:01.8252】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362404521】【StartTime::21:03:01.8252】【EndTime::21:03:01.826】【UseTime::0.00086307525634766】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.8626】【EndTime::21:03:01.8627】【UseTime::7.4148178100586E-5】
+【HandleMysqlDbLib::execute】【query::1362404581】【StartTime::21:03:01.8627】【EndTime::21:03:01.8637】【UseTime::0.0009920597076416】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.9071】【EndTime::21:03:01.9071】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362404641】【StartTime::21:03:01.9072】【EndTime::21:03:01.9082】【UseTime::0.0010838508605957】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.9474】【EndTime::21:03:01.9474】【UseTime::1.4781951904297E-5】
+【HandleMysqlDbLib::execute】【query::1362404701】【StartTime::21:03:01.9474】【EndTime::21:03:01.9483】【UseTime::0.00093793869018555】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.9899】【EndTime::21:03:01.9899】【UseTime::1.0013580322266E-5】
+【HandleMysqlDbLib::execute】【query::1362404761】【StartTime::21:03:01.9899】【EndTime::21:03:01.9907】【UseTime::0.00084185600280762】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:02.0463】【EndTime::21:03:02.0463】【UseTime::2.7894973754883E-5】
+【HandleMysqlDbLib::execute】【query::1362404822】【StartTime::21:03:02.0463】【EndTime::21:03:02.0474】【UseTime::0.0010709762573242】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.0924】【EndTime::21:03:01.0924】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362404881】【StartTime::21:03:01.0924】【EndTime::21:03:01.0933】【UseTime::0.00086402893066406】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.126】【EndTime::21:03:01.126】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362404941】【StartTime::21:03:01.126】【EndTime::21:03:01.1268】【UseTime::0.00075697898864746】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.1676】【EndTime::21:03:01.1676】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362405001】【StartTime::21:03:01.1676】【EndTime::21:03:01.1686】【UseTime::0.0009610652923584】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.2112】【EndTime::21:03:01.2113】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362405061】【StartTime::21:03:01.2113】【EndTime::21:03:01.2121】【UseTime::0.00083279609680176】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.2471】【EndTime::21:03:01.2471】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362405121】【StartTime::21:03:01.2471】【EndTime::21:03:01.2479】【UseTime::0.00078797340393066】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.2888】【EndTime::21:03:01.2888】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362405181】【StartTime::21:03:01.2889】【EndTime::21:03:01.2897】【UseTime::0.00082111358642578】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.3409】【EndTime::21:03:01.3409】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362405241】【StartTime::21:03:01.3409】【EndTime::21:03:01.3418】【UseTime::0.00086522102355957】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.3883】【EndTime::21:03:01.3883】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362405301】【StartTime::21:03:01.3883】【EndTime::21:03:01.3898】【UseTime::0.0015192031860352】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.4296】【EndTime::21:03:01.4296】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362405361】【StartTime::21:03:01.4296】【EndTime::21:03:01.4305】【UseTime::0.00086402893066406】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.474】【EndTime::21:03:01.4741】【UseTime::0.00011110305786133】
+【HandleMysqlDbLib::execute】【query::1362405421】【StartTime::21:03:01.4741】【EndTime::21:03:01.475】【UseTime::0.00084400177001953】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5212】【EndTime::21:03:01.5214】【UseTime::0.00015592575073242】
+【HandleMysqlDbLib::execute】【query::1362405481】【StartTime::21:03:01.5214】【EndTime::21:03:01.5229】【UseTime::0.0014750957489014】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::21:03:01.5704】【EndTime::21:03:01.5707】【UseTime::0.00028085708618164】
+【HandleMysqlDbLib::execute】【query::1362405541】【StartTime::21:03:01.5707】【EndTime::21:03:01.5718】【UseTime::0.0010778903961182】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.6199】【EndTime::22:03:01.6199】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362405601】【StartTime::22:03:01.6199】【EndTime::22:03:01.6208】【UseTime::0.00087690353393555】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.6979】【EndTime::22:03:01.6979】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362405661】【StartTime::22:03:01.6979】【EndTime::22:03:01.7008】【UseTime::0.0028460025787354】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.7493】【EndTime::22:03:01.7494】【UseTime::1.8835067749023E-5】
+【HandleMysqlDbLib::execute】【query::1362405721】【StartTime::22:03:01.7494】【EndTime::22:03:01.7504】【UseTime::0.00097990036010742】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.7973】【EndTime::22:03:01.7973】【UseTime::1.8119812011719E-5】
+【HandleMysqlDbLib::execute】【query::1362405781】【StartTime::22:03:01.7973】【EndTime::22:03:01.7989】【UseTime::0.0015289783477783】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.8387】【EndTime::22:03:01.8387】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362405841】【StartTime::22:03:01.8388】【EndTime::22:03:01.8395】【UseTime::0.00075721740722656】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.8831】【EndTime::22:03:01.8831】【UseTime::1.7166137695312E-5】
+【HandleMysqlDbLib::execute】【query::1362405901】【StartTime::22:03:01.8831】【EndTime::22:03:01.8841】【UseTime::0.0010099411010742】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.9273】【EndTime::22:03:01.9274】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362405961】【StartTime::22:03:01.9274】【EndTime::22:03:01.9282】【UseTime::0.0008549690246582】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.9709】【EndTime::22:03:01.9709】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362406021】【StartTime::22:03:01.9709】【EndTime::22:03:01.972】【UseTime::0.0010440349578857】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:02.0177】【EndTime::22:03:02.0177】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362406082】【StartTime::22:03:02.0177】【EndTime::22:03:02.0186】【UseTime::0.00093793869018555】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.0701】【EndTime::22:03:01.0701】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362406141】【StartTime::22:03:01.0701】【EndTime::22:03:01.0711】【UseTime::0.00099492073059082】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.113】【EndTime::22:03:01.113】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362406201】【StartTime::22:03:01.113】【EndTime::22:03:01.1139】【UseTime::0.0008699893951416】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.1545】【EndTime::22:03:01.1546】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362406261】【StartTime::22:03:01.1546】【EndTime::22:03:01.1558】【UseTime::0.001215934753418】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.1962】【EndTime::22:03:01.1962】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362406321】【StartTime::22:03:01.1962】【EndTime::22:03:01.1971】【UseTime::0.00086307525634766】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.2356】【EndTime::22:03:01.2356】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362406381】【StartTime::22:03:01.2356】【EndTime::22:03:01.2365】【UseTime::0.00095486640930176】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.2834】【EndTime::22:03:01.2834】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362406441】【StartTime::22:03:01.2835】【EndTime::22:03:01.2845】【UseTime::0.0010139942169189】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.3244】【EndTime::22:03:01.3244】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362406501】【StartTime::22:03:01.3244】【EndTime::22:03:01.3253】【UseTime::0.0008399486541748】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.3695】【EndTime::22:03:01.3695】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362406561】【StartTime::22:03:01.3695】【EndTime::22:03:01.3707】【UseTime::0.0011639595031738】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.4172】【EndTime::22:03:01.4172】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362406621】【StartTime::22:03:01.4172】【EndTime::22:03:01.418】【UseTime::0.00076818466186523】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.4679】【EndTime::22:03:01.4679】【UseTime::1.8835067749023E-5】
+【HandleMysqlDbLib::execute】【query::1362406681】【StartTime::22:03:01.468】【EndTime::22:03:01.4697】【UseTime::0.0017571449279785】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.5081】【EndTime::22:03:01.5081】【UseTime::1.7881393432617E-5】
+【HandleMysqlDbLib::execute】【query::1362406741】【StartTime::22:03:01.5082】【EndTime::22:03:01.5091】【UseTime::0.00092387199401855】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.5557】【EndTime::22:03:01.5557】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362406801】【StartTime::22:03:01.5557】【EndTime::22:03:01.5566】【UseTime::0.00082898139953613】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.5936】【EndTime::22:03:01.5936】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362406861】【StartTime::22:03:01.5936】【EndTime::22:03:01.5944】【UseTime::0.00085997581481934】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.6293】【EndTime::22:03:01.6293】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362406921】【StartTime::22:03:01.6293】【EndTime::22:03:01.6302】【UseTime::0.00082898139953613】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.6632】【EndTime::22:03:01.6632】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362406981】【StartTime::22:03:01.6632】【EndTime::22:03:01.6641】【UseTime::0.00083804130554199】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.6969】【EndTime::22:03:01.6969】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362407041】【StartTime::22:03:01.6969】【EndTime::22:03:01.6977】【UseTime::0.00074195861816406】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.7734】【EndTime::22:03:01.7735】【UseTime::1.8119812011719E-5】
+【HandleMysqlDbLib::execute】【query::1362407101】【StartTime::22:03:01.7735】【EndTime::22:03:01.7745】【UseTime::0.0010249614715576】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.8095】【EndTime::22:03:01.8095】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362407161】【StartTime::22:03:01.8095】【EndTime::22:03:01.8103】【UseTime::0.00075292587280273】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.8537】【EndTime::22:03:01.8538】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362407221】【StartTime::22:03:01.8538】【EndTime::22:03:01.8546】【UseTime::0.00082802772521973】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.8897】【EndTime::22:03:01.8897】【UseTime::1.1205673217773E-5】
+【HandleMysqlDbLib::execute】【query::1362407281】【StartTime::22:03:01.8897】【EndTime::22:03:01.8905】【UseTime::0.00081014633178711】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.9234】【EndTime::22:03:01.9234】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362407341】【StartTime::22:03:01.9234】【EndTime::22:03:01.9246】【UseTime::0.0012199878692627】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.9642】【EndTime::22:03:01.9642】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362407401】【StartTime::22:03:01.9642】【EndTime::22:03:01.9651】【UseTime::0.00090789794921875】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:02.0094】【EndTime::22:03:02.0095】【UseTime::0.00011205673217773】
+【HandleMysqlDbLib::execute】【query::1362407462】【StartTime::22:03:02.0095】【EndTime::22:03:02.0108】【UseTime::0.0012400150299072】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.046】【EndTime::22:03:01.046】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362407521】【StartTime::22:03:01.0461】【EndTime::22:03:01.0469】【UseTime::0.00087118148803711】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.1016】【EndTime::22:03:01.1016】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362407581】【StartTime::22:03:01.1016】【EndTime::22:03:01.1025】【UseTime::0.00083804130554199】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.1428】【EndTime::22:03:01.1429】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362407641】【StartTime::22:03:01.1429】【EndTime::22:03:01.1437】【UseTime::0.00087094306945801】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.1882】【EndTime::22:03:01.1883】【UseTime::6.9856643676758E-5】
+【HandleMysqlDbLib::execute】【query::1362407701】【StartTime::22:03:01.1883】【EndTime::22:03:01.1893】【UseTime::0.00096392631530762】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.225】【EndTime::22:03:01.225】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362407761】【StartTime::22:03:01.225】【EndTime::22:03:01.2262】【UseTime::0.0011439323425293】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.2624】【EndTime::22:03:01.2624】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362407821】【StartTime::22:03:01.2624】【EndTime::22:03:01.2633】【UseTime::0.00088787078857422】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.3114】【EndTime::22:03:01.3114】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362407881】【StartTime::22:03:01.3114】【EndTime::22:03:01.3123】【UseTime::0.00093388557434082】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.3432】【EndTime::22:03:01.3432】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362407941】【StartTime::22:03:01.3432】【EndTime::22:03:01.344】【UseTime::0.0007469654083252】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.3936】【EndTime::22:03:01.3936】【UseTime::2.0027160644531E-5】
+【HandleMysqlDbLib::execute】【query::1362408001】【StartTime::22:03:01.3937】【EndTime::22:03:01.395】【UseTime::0.0013160705566406】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.4388】【EndTime::22:03:01.4388】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362408061】【StartTime::22:03:01.4388】【EndTime::22:03:01.4397】【UseTime::0.00088000297546387】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.4738】【EndTime::22:03:01.4739】【UseTime::0.00010299682617188】
+【HandleMysqlDbLib::execute】【query::1362408121】【StartTime::22:03:01.4739】【EndTime::22:03:01.475】【UseTime::0.0010759830474854】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.5154】【EndTime::22:03:01.5154】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362408181】【StartTime::22:03:01.5154】【EndTime::22:03:01.5163】【UseTime::0.00093412399291992】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.5524】【EndTime::22:03:01.5525】【UseTime::1.4781951904297E-5】
+【HandleMysqlDbLib::execute】【query::1362408241】【StartTime::22:03:01.5525】【EndTime::22:03:01.5535】【UseTime::0.00098299980163574】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.5928】【EndTime::22:03:01.5928】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362408301】【StartTime::22:03:01.5928】【EndTime::22:03:01.5942】【UseTime::0.0014059543609619】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.6296】【EndTime::22:03:01.6296】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362408361】【StartTime::22:03:01.6296】【EndTime::22:03:01.6304】【UseTime::0.00083112716674805】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.6692】【EndTime::22:03:01.6692】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362408421】【StartTime::22:03:01.6692】【EndTime::22:03:01.67】【UseTime::0.00076889991760254】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.7125】【EndTime::22:03:01.7125】【UseTime::1.6927719116211E-5】
+【HandleMysqlDbLib::execute】【query::1362408481】【StartTime::22:03:01.7125】【EndTime::22:03:01.7135】【UseTime::0.00095701217651367】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.7529】【EndTime::22:03:01.753】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362408541】【StartTime::22:03:01.753】【EndTime::22:03:01.7539】【UseTime::0.00092792510986328】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.7953】【EndTime::22:03:01.7954】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362408601】【StartTime::22:03:01.7954】【EndTime::22:03:01.7963】【UseTime::0.00091695785522461】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.8313】【EndTime::22:03:01.8313】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362408661】【StartTime::22:03:01.8313】【EndTime::22:03:01.8321】【UseTime::0.0007939338684082】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.871】【EndTime::22:03:01.871】【UseTime::1.3113021850586E-5】
+【HandleMysqlDbLib::execute】【query::1362408721】【StartTime::22:03:01.871】【EndTime::22:03:01.8719】【UseTime::0.00087499618530273】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.9065】【EndTime::22:03:01.9065】【UseTime::1.2874603271484E-5】
+【HandleMysqlDbLib::execute】【query::1362408781】【StartTime::22:03:01.9065】【EndTime::22:03:01.91】【UseTime::0.0035190582275391】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.9496】【EndTime::22:03:01.9497】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362408841】【StartTime::22:03:01.9497】【EndTime::22:03:01.9505】【UseTime::0.00083208084106445】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.9839】【EndTime::22:03:01.9839】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362408901】【StartTime::22:03:01.9839】【EndTime::22:03:01.9847】【UseTime::0.00077009201049805】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:02.0299】【EndTime::22:03:02.0299】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362408962】【StartTime::22:03:02.0299】【EndTime::22:03:02.0306】【UseTime::0.00072693824768066】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.0639】【EndTime::22:03:01.0639】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362409021】【StartTime::22:03:01.0639】【EndTime::22:03:01.065】【UseTime::0.0010740756988525】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.0966】【EndTime::22:03:01.0966】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362409081】【StartTime::22:03:01.0966】【EndTime::22:03:01.0974】【UseTime::0.00080418586730957】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::22:03:01.1397】【EndTime::22:03:01.1398】【UseTime::1.8119812011719E-5】
+【HandleMysqlDbLib::execute】【query::1362409141】【StartTime::22:03:01.1398】【EndTime::22:03:01.1408】【UseTime::0.0009911060333252】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.1835】【EndTime::23:03:01.1836】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362409201】【StartTime::23:03:01.1836】【EndTime::23:03:01.1846】【UseTime::0.0010199546813965】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.2623】【EndTime::23:03:01.2623】【UseTime::1.5974044799805E-5】
+【HandleMysqlDbLib::execute】【query::1362409261】【StartTime::23:03:01.2623】【EndTime::23:03:01.2644】【UseTime::0.0020849704742432】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.3006】【EndTime::23:03:01.3006】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362409321】【StartTime::23:03:01.3006】【EndTime::23:03:01.3016】【UseTime::0.0010311603546143】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.3416】【EndTime::23:03:01.3416】【UseTime::1.4066696166992E-5】
+【HandleMysqlDbLib::execute】【query::1362409381】【StartTime::23:03:01.3417】【EndTime::23:03:01.3425】【UseTime::0.00089192390441895】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.3873】【EndTime::23:03:01.3873】【UseTime::1.6212463378906E-5】
+【HandleMysqlDbLib::execute】【query::1362409441】【StartTime::23:03:01.3873】【EndTime::23:03:01.3883】【UseTime::0.00099015235900879】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.4274】【EndTime::23:03:01.4275】【UseTime::1.3828277587891E-5】
+【HandleMysqlDbLib::execute】【query::1362409501】【StartTime::23:03:01.4275】【EndTime::23:03:01.4283】【UseTime::0.00081014633178711】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.4632】【EndTime::23:03:01.4632】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362409561】【StartTime::23:03:01.4632】【EndTime::23:03:01.4643】【UseTime::0.0010709762573242】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.497】【EndTime::23:03:01.497】【UseTime::1.0967254638672E-5】
+【HandleMysqlDbLib::execute】【query::1362409621】【StartTime::23:03:01.497】【EndTime::23:03:01.5047】【UseTime::0.0077090263366699】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.5393】【EndTime::23:03:01.5393】【UseTime::1.1920928955078E-5】
+【HandleMysqlDbLib::execute】【query::1362409681】【StartTime::23:03:01.5394】【EndTime::23:03:01.5403】【UseTime::0.00098609924316406】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.5721】【EndTime::23:03:01.5721】【UseTime::1.215934753418E-5】
+【HandleMysqlDbLib::execute】【query::1362409741】【StartTime::23:03:01.5721】【EndTime::23:03:01.5729】【UseTime::0.00079202651977539】
+【HandleMysqlDbLib::prepare】【query::select * from client_jobs where (cachetime <= ?)  limit 0,5】【StartTime::23:03:01.6057】【EndTime::23:03:01.6057】【UseTime::1.5020370483398E-5】
+【HandleMysqlDbLib::execute】【query::1362409801】【StartTime::23:03:01.6057】【EndTime::23:03:01.6065】【UseTime::0.00079202651977539】

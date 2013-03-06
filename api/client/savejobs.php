@@ -32,7 +32,7 @@ class SavejobsClientApi extends BaseApi
 					$s = ($page - 1) * 36;
 					$url = $model->url . '&s=' . $s;
 					$data = array();
-					$data['tastid'] = $model->id;
+					$data['taskid'] = $model->id;
 					$data['goodtypename'] = $model->goodtypename;
 					$data['url'] = $url;
 					$data['page'] = $page;
