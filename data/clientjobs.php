@@ -22,10 +22,10 @@ class ClientJobsData extends BaseData
 		{
 			foreach ($data as $model)
 			{
-				$checkedIds .= ',' .$model->id;
+				$checkedIds .= ',' .$model->Id;
 			}
 			$checkedIds = ltrim($checkedIds, ',');
-			$sql = 'update client_jobs set cachetime = '. time() . ' where id in (' . $checkedIds . ')';
+			$sql = 'update ClientJobs set cachetime = '. time() . ' where id in (' . $checkedIds . ')';
 			$this->exec($sql);
 		}
 		return $data;

@@ -3,11 +3,11 @@
 class BaseDataModel extends ModelCoreLib
 {
 
-    public $id;
+    public $Id;
 
     public function __construct()
     {
-        $this->setPrimaryKey('id');
+        $this->setPrimaryKey('Id');
         parent::__construct();
     }
 }

@@ -3,17 +3,16 @@
 class ClientJobsDataModel extends BaseDataModel
 {
 
-	public $goodtypename;
+	public $GoodTypeName;
 
-	public $url;
+	public $Url;
 
-	public $pagecount;
+	public $PageCount;
 
-	public $scriptname;
+	public $ScriptName;
 
 	public function __construct()
 	{
 		parent::__construct();
-		$this->setTableName('client_jobs');
 	}
 }

@@ -3,6 +3,12 @@
 class ClientBusiness extends BaseBusiness
 {
 
+	public function addJsonData($model)
+	{
+		$dataClass = M('JsonDataData');
+		$dataClass->add($model);
+	}
+
 	public function getListLen()
 	{
 		$dataClass = M('ClientJobsData');

@@ -26,17 +26,17 @@ class SavejobsClientApi extends BaseApi
 		{
 			foreach ($models as $model)
 			{
-				$pageCount = $model->pagecount;
+				$pageCount = $model->PageCount;
 				for ($page = 1; $page <= $pageCount; $page++)
 				{
 					$s = ($page - 1) * 36;
-					$url = $model->url . '&s=' . $s;
+					$url = $model->Url . '&s=' . $s;
 					$data = array();
-					$data['taskid'] = $model->id;
-					$data['goodtypename'] = $model->goodtypename;
+					$data['taskid'] = $model->Id;
+					$data['goodtypename'] = $model->GoodTypeName;
 					$data['url'] = $url;
 					$data['page'] = $page;
-					$data['scriptname'] = $model->scriptname;
+					$data['scriptname'] = $model->ScriptName;
 					$business->addJob($data);
 				}
 			}
@@ -57,9 +57,9 @@ class SavejobsClientApi extends BaseApi
 			{
 				break;
 			}
-			$model->goodtypename = trim($info[1]);
-			$model->url = trim($info[2]);
-			$model->pagecount = (int)$info[3];
+			$model->GoodTypeName = trim($info[1]);
+			$model->Url = trim($info[2]);
+			$model->PageCount = (int)$info[3];
 			$array[] = $model;
 			$data = new ClientJobsData();
 			$data->add($model);

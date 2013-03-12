@@ -12,8 +12,24 @@ class SavedataClientApi extends BaseApi
 		}
 		$_POST = json_decode($json, true);
 		$handle = fopen('demo.txt', 'a');
-		$str = json_encode($_POST). '--' . date('Y-m-d H:i:s') . "\r\n";
-		fwrite($handle, $str);
-		return $_POST;
+		$data = include './jsondata.php';
+		$info = json_decode($data, true);
+		if (empty($info['data']))
+		{
+			return false;	
+		}
+		$business = new ClientBusiness();
+		foreach ($info['data'] as $arr)
+		{
+			$model = new JsonDataDataModel();
+			$model->GoodTypeName = $info['goodtypename'];
+			$model->CreateTime = time();
+			$model->IsOk = $arr['isok'];
+			$model->FromSite = $arr['from'];
+			$model->GoodName = $arr['name'];
+			$model->Content = json_encode($arr);
+			$business->addJsonData($model);
+		}
+		return true;
     }
 }
