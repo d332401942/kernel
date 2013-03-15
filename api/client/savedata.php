@@ -5,15 +5,10 @@ class SavedataClientApi extends BaseApi
     
     public function index()
     {
-		//P($_POST);
-		if (empty($_POST))
-		{
-			$json = file_get_contents("php://input");
-		}
-		$_POST = json_decode($json, true);
-		$handle = fopen('demo.txt', 'a');
-		$data = include './jsondata.php';
-		$info = json_decode($data, true);
+		$json = file_get_contents("php://input");
+		file_put_contents('demo.txt', $json);
+		$info = json_decode($json, true);
+		
 		if (empty($info['data']))
 		{
 			return false;	
